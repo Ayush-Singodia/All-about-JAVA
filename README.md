@@ -1,2 +1,1 @@
-# 20DAYSOFJAVA
-THIS IS A REPO OF MY WHOLE 20 DAYS 
+This is the repo of my whole java codes
